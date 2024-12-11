@@ -70,12 +70,6 @@
 <h1>About me 🙋🏻‍♂️</h1>
 Me llamo Axel Lylies Luna, pero puedes llamarme Lylies. Mi camino en la programación comenzó a la temprana edad de 16 años. Inicié mi viaje utilizando PSeInt como mi primer pseudolenguaje, una experiencia que sentó las bases de mi fascinación por la resolución de problemas y la lógica de programación.
 
-
-  
- </details>
- -->
-
-
 ## Contactame 🍥
 
 <br/>
