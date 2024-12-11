@@ -70,6 +70,24 @@
 <h1>About me 🙋🏻‍♂️</h1>
 Me llamo Axel Lylies Luna, pero puedes llamarme Lylies. Mi camino en la programación comenzó a la temprana edad de 16 años. Inicié mi viaje utilizando PSeInt como mi primer pseudolenguaje, una experiencia que sentó las bases de mi fascinación por la resolución de problemas y la lógica de programación.
 
+<h3>My GitHub Stats</h3>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<br>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="lylies7x" /></p>
+
+<br><br><br><br><br><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=lylies7x&show_icons=true&theme=dark&locale=en" alt="lylies7x"
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
 ## Contactame 🍥
 
 <br/>
